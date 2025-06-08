@@ -8,7 +8,7 @@
         <li>Evening stroll along Pearl River</li>
         <li>Dinner at a romantic riverside restaurant</li>
       </ul>
-      <img <img src="https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1080,h_719/w_66,x_12,y_12,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mzvdesr60hyoenzrgjfy/PearlRiverNightCruiseinGuangzhou(TianziWharf).jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1080px; height: 372px; margin: 0px; width: 559px;" alt="Pearl River Night Cruise in Guangzhou, China - Klook Malaysia" jsname="kn3ccd">
+      <img src="https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1080,h_719/w_66,x_12,y_12,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mzvdesr60hyoenzrgjfy/PearlRiverNightCruiseinGuangzhou(TianziWharf).jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1080px; height: 372px; margin: 0px; width: 559px;" alt="Pearl River Night Cruise in Guangzhou, China - Klook Malaysia" jsname="kn3ccd">
       <a class="map-link" href="https://www.google.com/maps/dir/Guangzhou+Baiyun+Airport/LN+Hotel+Five/Pearl+River/" target="_blank">View Route on Map</a>
     </div>
 
@@ -81,5 +81,4 @@
       <a class="map-link" href="https://www.google.com/maps/place/Guangzhou+Baiyun+International+Airport" target="_blank">View on Map</a>
     </div>
   </main>
-</body>
-</html>
+
